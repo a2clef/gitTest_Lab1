@@ -436,6 +436,6 @@ public class Calculator {
 		inputSource.close();
 	}
 	//This is some added comment before commit
-	
+	//This is a comment added at branch C4
 	
 }
