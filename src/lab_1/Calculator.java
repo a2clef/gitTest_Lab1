@@ -436,11 +436,10 @@ public class Calculator {
 		inputSource.close();
 	}
 	//This is some added comment before commit
-<<<<<<< HEAD
 	
 	//This is a comment added at B1
-=======
+
 	//This is a comment added at branch C4
 	
->>>>>>> C4
+
 }
